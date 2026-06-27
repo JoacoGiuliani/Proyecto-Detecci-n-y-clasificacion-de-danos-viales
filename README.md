@@ -1,1 +1,1 @@
-# Proyecto-Detecci-n-y-clasificacion-de-danos-viales
+# Proyecto-Detección-y-clasificacion-de-daños-viales
